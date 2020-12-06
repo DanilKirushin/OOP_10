@@ -1,0 +1,36 @@
+E:\Проекты С#\LR10\bin\Debug\LR10.exe.config
+E:\Проекты С#\LR10\bin\Debug\LR10.exe
+E:\Проекты С#\LR10\bin\Debug\LR10.pdb
+E:\Проекты С#\LR10\obj\Debug\LR10.csprojAssemblyReference.cache
+E:\Проекты С#\LR10\obj\Debug\LR10.Form1.resources
+E:\Проекты С#\LR10\obj\Debug\LR10.Properties.Resources.resources
+E:\Проекты С#\LR10\obj\Debug\LR10.csproj.GenerateResource.cache
+E:\Проекты С#\LR10\obj\Debug\LR10.csproj.CoreCompileInputs.cache
+E:\Проекты С#\LR10\obj\Debug\LR10.exe
+E:\Проекты С#\LR10\obj\Debug\LR10.pdb
+E:\Проекты С#\LR10\obj\Debug\LR10.Form2.resources
+E:\Проекты С#\LR10\obj\Debug\LR10.Form3.resources
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_1\bin\Debug\LR10.exe.config
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_1\bin\Debug\LR10.exe
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_1\bin\Debug\LR10.pdb
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_1\obj\Debug\LR10.csprojAssemblyReference.cache
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_1\obj\Debug\LR10.Form1.resources
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_1\obj\Debug\LR10.Form2.resources
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_1\obj\Debug\LR10.Form3.resources
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_1\obj\Debug\LR10.Properties.Resources.resources
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_1\obj\Debug\LR10.csproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_1\obj\Debug\LR10.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_1\obj\Debug\LR10.exe
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_1\obj\Debug\LR10.pdb
+C:\Users\danil\OneDrive\Desktop\OOP_10(1)\bin\Debug\LR10.exe.config
+C:\Users\danil\OneDrive\Desktop\OOP_10(1)\bin\Debug\LR10.exe
+C:\Users\danil\OneDrive\Desktop\OOP_10(1)\bin\Debug\LR10.pdb
+C:\Users\danil\OneDrive\Desktop\OOP_10(1)\obj\Debug\LR10.csprojAssemblyReference.cache
+C:\Users\danil\OneDrive\Desktop\OOP_10(1)\obj\Debug\LR10.Form1.resources
+C:\Users\danil\OneDrive\Desktop\OOP_10(1)\obj\Debug\LR10.Form2.resources
+C:\Users\danil\OneDrive\Desktop\OOP_10(1)\obj\Debug\LR10.Form3.resources
+C:\Users\danil\OneDrive\Desktop\OOP_10(1)\obj\Debug\LR10.Properties.Resources.resources
+C:\Users\danil\OneDrive\Desktop\OOP_10(1)\obj\Debug\LR10.csproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Desktop\OOP_10(1)\obj\Debug\LR10.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Desktop\OOP_10(1)\obj\Debug\LR10.exe
+C:\Users\danil\OneDrive\Desktop\OOP_10(1)\obj\Debug\LR10.pdb

@@ -1,0 +1,12 @@
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_2_3\obj\Debug\LR10_2_3.csprojAssemblyReference.cache
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_2_3\obj\Debug\WindowsFormsApp1.exe
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_2_3\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_2_3\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_2_3\bin\Debug\WindowsFormsApp1.exe
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_2_3\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_2_3\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_2_3\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_2_3\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_2_3\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_2_3\obj\Debug\LR10_2_3.csproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Desktop\LR10\LR10_2_3\obj\Debug\LR10_2_3.csproj.CoreCompileInputs.cache
